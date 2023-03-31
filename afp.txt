@@ -1,0 +1,85 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title> APRIL FOOLS!!!!! </title>
+
+
+<blink><b><h1 style="font-size:100px;color:rgb(0,0,0);font-family:comicsans;text-align:center";>APRIL FOOLS LOL!!!</h1></b></blink>
+
+
+
+
+<body style="background-color:rgb(255,190,215);">
+
+
+<style>
+div {padding:60px;}
+</style>
+
+
+
+<center>
+
+<img src="https://i.ibb.co/x1VQBL5/img-2-1678295194568.jpg" alt="picture of flav" height="800px" width="900px">
+
+</center>
+
+<center>
+
+<div style="background-color:rgb(255,190,215);"> </div>
+
+</center>
+
+<center>
+
+<img src="https://i.ibb.co/0CMr8n5/ericacatpic1.jpg" alt="woman dressed as cat" height="800px" width="900px">
+
+</center>
+
+
+
+<center>
+
+
+<div style="background-color:rgb(255,190,215);"> </div>
+
+</center>
+
+
+
+
+<center>
+
+
+
+<img src="https://i.ibb.co/R6Mv9cR/200w.gif" alt="rick rolled" height="800px" width="900px">
+
+
+</center>
+
+
+
+<center>
+
+<div style="background-color:rgb(255,190,215);"> </div>
+
+</center>
+
+
+
+
+</body>
+
+</head>
+
+</html>
+
+
+
+
